@@ -107,7 +107,7 @@ name = "fnox"
 path = "src/main.rs"
 
 [dependencies]
-fnox-core = { path = "crates/fnox-core", version = "1.23.1" }
+fnox-core = { path = "crates/fnox-core", version = "1.23.1-dev.pulumi-esc.1" }
 
 # Direct dependencies of the CLI binary (commands, MCP server, TUI, hook-env,
 # shell integration). Provider/config/secret-resolver crates are pulled in
